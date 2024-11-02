@@ -1,0 +1,14 @@
+C:\Users\Jesús\source\repos\ConwayLife\bin\Debug\net8.0\ConwayLife.exe
+C:\Users\Jesús\source\repos\ConwayLife\bin\Debug\net8.0\ConwayLife.deps.json
+C:\Users\Jesús\source\repos\ConwayLife\bin\Debug\net8.0\ConwayLife.runtimeconfig.json
+C:\Users\Jesús\source\repos\ConwayLife\bin\Debug\net8.0\ConwayLife.dll
+C:\Users\Jesús\source\repos\ConwayLife\bin\Debug\net8.0\ConwayLife.pdb
+C:\Users\Jesús\source\repos\ConwayLife\obj\Debug\net8.0\ConwayLife.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesús\source\repos\ConwayLife\obj\Debug\net8.0\ConwayLife.AssemblyInfoInputs.cache
+C:\Users\Jesús\source\repos\ConwayLife\obj\Debug\net8.0\ConwayLife.AssemblyInfo.cs
+C:\Users\Jesús\source\repos\ConwayLife\obj\Debug\net8.0\ConwayLife.csproj.CoreCompileInputs.cache
+C:\Users\Jesús\source\repos\ConwayLife\obj\Debug\net8.0\ConwayLife.dll
+C:\Users\Jesús\source\repos\ConwayLife\obj\Debug\net8.0\refint\ConwayLife.dll
+C:\Users\Jesús\source\repos\ConwayLife\obj\Debug\net8.0\ConwayLife.pdb
+C:\Users\Jesús\source\repos\ConwayLife\obj\Debug\net8.0\ConwayLife.genruntimeconfig.cache
+C:\Users\Jesús\source\repos\ConwayLife\obj\Debug\net8.0\ref\ConwayLife.dll
